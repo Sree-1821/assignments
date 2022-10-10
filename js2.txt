@@ -1,0 +1,12 @@
+Hey people
+i am laskhmi sree
+so i am ready to give some code
+<html>
+<head>
+<title> js2-assignments </title>
+</head>
+<body>
+     this is js2-assignments
+</body>
+</html>
+
